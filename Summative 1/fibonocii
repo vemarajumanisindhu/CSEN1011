@@ -1,0 +1,11 @@
+start
+declare variables as a,b,c,n 
+intialize values as a=0,b=1
+take n from the user 
+print a and b 
+repeat until i<=n
+c=a+b
+print c 
+a=b,b=c
+i=i+1
+stop
