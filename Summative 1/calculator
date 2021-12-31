@@ -1,0 +1,21 @@
+start
+print "enter an operand 1
+print"enter an operand 2 
+print"enter an operator
+If the user enters + or - or * or / then follow the below steps 
+else it shows "invalid opeartor"
+switch(operator)
+case +:
+print result of summation
+break
+case -:
+print result of subtraction 
+break
+case *:
+print result of multiplication 
+break 
+case /:
+print result of division 
+break 
+stop 
+
