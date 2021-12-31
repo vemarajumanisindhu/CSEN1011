@@ -1,0 +1,10 @@
+start
+Take a number n
+if the given number is more than 10 it should display "too big a number"
+If the number is negative it should display "negative number"
+initialize variables i=1,fact=1
+if  i<=n you can goto step 7 othewise go to step 10
+calculate fact=fact*i
+increment the i by 1 and go to step 5 
+print fact
+stop
