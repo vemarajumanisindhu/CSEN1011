@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main() {
-int a,b,remainder;
-printf("enter an integer");
-scanf("%d",&a);
-printf("enter an divisor");
-scanf("%d",&b);
-remainder=a_b*(a/b);
-printf
