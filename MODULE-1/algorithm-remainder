@@ -6,4 +6,6 @@ scanf("%d",&a);
 printf("enter an divisor");
 scanf("%d",&b);
 remainder=a_b*(a/b);
-printf
+printf("%d",remainder);
+return 0
+}
