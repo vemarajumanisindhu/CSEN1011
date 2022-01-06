@@ -7,5 +7,5 @@ printf("enter an divisor");
 scanf("%d",&b);
 remainder=a_b*(a/b);
 printf("%d",remainder);
-return 0
+return 0;
 }
